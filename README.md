@@ -10,3 +10,6 @@
 * [招新人工程师看学历吗？](https://github.com/xdite/engineer-career/blob/master/02.md#%E6%8B%9B%E6%96%B0%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9C%8B%E5%AD%A6%E5%8E%86%E5%90%97)
 * [什么人在职场上是隐形被拒绝的？](https://github.com/xdite/engineer-career/blob/master/02.md#%E4%BB%80%E4%B9%88%E4%BA%BA%E5%9C%A8%E8%81%8C%E5%9C%BA%E4%B8%8A%E6%98%AF%E9%9A%90%E5%BD%A2%E8%A2%AB%E6%8B%92%E7%BB%9D%E7%9A%84)
 * [新手程式设计头一两年的职业目标是什么？](https://github.com/xdite/engineer-career/blob/master/03.md#%E6%96%B0%E6%89%8B%E7%A8%8B%E5%BC%8F%E8%AE%BE%E8%AE%A1%E5%A4%B4%E4%B8%80%E4%B8%A4%E5%B9%B4%E7%9A%84%E8%81%8C%E4%B8%9A%E7%9B%AE%E6%A0%87)
+
+
+基于 <https://github.com/xdite/career-path-book/blob/master/internet-engineer.md> 大纲写作
